@@ -1,0 +1,26 @@
+Pasos
+git clone https://github.com/vargas1810/ProyectoFronted.git
+git clone https://github.com/vargas1810/ProyectoBackend.git
+
+cd ProyectoFronted
+
+code .
+
+Deberías ver los archivos y carpetas de tu proyecto clonado.
+
+Si tienes dependencias de Node.js, recuerda instalar las dependencias usando:
+
+npm install
+
+Host : dpg-cpufgclds78s73drp7vg-a.oregon-postgres.render.com
+port : 5432
+database maintence : proyectosisvita_quix
+username : proyectosisvita_quix_user
+contraseña : qHhMun2POXm3cIM4LnmTQALrcc5gsgh3
+
+
+pip install -r requirements.txt
+
+
+
+
